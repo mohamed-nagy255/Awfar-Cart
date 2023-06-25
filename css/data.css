@@ -1,0 +1,171 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+}
+.back-ground {
+    display: flex;
+    flex: wrap;
+}
+.back-ground .right {
+    flex: 30%;
+    height: 100vh;
+    position: relative;
+    background-color: white;
+    display: inline-block;
+    align-items: flex-start;
+}
+.back-ground .right img {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+}
+.back-ground .left {
+    flex: 70%;
+    height: 100vh;
+    background-color: black;
+    display: inline-block;
+    flex: flex-end;
+    justify-content: space-around;
+    align-items: center;
+    border-right: 3px solid #91173e;
+}
+.back-ground .left .qr-img {
+    width: 15vw;
+    background-color: #fff;
+    position: absolute;
+    top: 20%;
+    right: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+.back-ground .left .qr-img img {
+    width: 100%;
+}
+form {
+    color: #fff;
+    width: 40%;
+    height: 30vh;
+    background-color: #25cff2;
+    border: 1px solid #25cff2;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 5px #25cff2;
+    position: absolute;
+    top: 50%;
+    right: 25%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+form .data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-around;
+    color: #fff;
+    text-align: center;
+    margin: 5%;
+}
+form .data .name-property {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn  {
+    color: #fff;
+    position: absolute;
+    top: 70%;
+    width: 30vw;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 20px;
+    border: none;
+    background-color: #91173e;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px 10px 10px 10px;
+}
+.btn:hover {
+    width: 35vw;
+    padding-bottom: 20px;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.error {
+    color: #fff;
+    width: 40%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #91173e;
+    border: 1px solid #91173e;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 5px #91173e;
+    position: absolute;
+    top: 50%;
+    right: 25%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.error img {
+    width: 100px;
+
+}
+.error .tex {
+    margin-top: 20px;
+    text-align: center;
+}
+.footer {
+    color: #91173e;
+    padding: 10px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 4%;
+    left: 0;
+    border-radius: 0 10px 10px 0;
+    -webkit-border-radius: 0 10px 10px 0;
+    -moz-border-radius: 0 10px 10px 0;
+    -ms-border-radius: 0 10px 10px 0;
+    -o-border-radius: 0 10px 10px 0;
+}
+.footer img {
+    width: 20px;
+}
+@media (max-width: 767px) {
+    .footer {
+        width: 200px;
+    }
+}

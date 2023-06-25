@@ -1,0 +1,72 @@
+[04-Sep-2022 03:04:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 16
+[04-Sep-2022 03:04:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 16
+[04-Sep-2022 03:04:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 16
+[04-Sep-2022 03:36:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/awfarcar/public_html/functions/counter.php:21) in /home4/awfarcar/public_html/functions/counter.php on line 48
+[04-Sep-2022 03:36:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/awfarcar/public_html/functions/counter.php:21) in /home4/awfarcar/public_html/functions/counter.php on line 48
+[04-Sep-2022 03:36:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/awfarcar/public_html/functions/counter.php:21) in /home4/awfarcar/public_html/functions/counter.php on line 48
+[04-Sep-2022 03:36:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/awfarcar/public_html/functions/counter.php:21) in /home4/awfarcar/public_html/functions/counter.php on line 48
+[04-Sep-2022 03:36:45 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/awfarcar/public_html/functions/counter.php:21) in /home4/awfarcar/public_html/functions/counter.php on line 48
+[04-Sep-2022 03:37:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/awfarcar/public_html/functions/counter.php:21) in /home4/awfarcar/public_html/functions/counter.php on line 48
+[04-Sep-2022 03:38:29 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 26
+[04-Sep-2022 03:38:34 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 26
+[04-Sep-2022 03:38:40 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 26
+[04-Sep-2022 04:33:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 18
+[04-Sep-2022 04:33:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 18
+[04-Sep-2022 04:33:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 18
+[04-Sep-2022 04:33:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 18
+[04-Sep-2022 04:33:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 18
+[04-Sep-2022 04:33:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 18
+[04-Sep-2022 04:33:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/awfarcar/public_html/functions/counter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 18
+[04-Sep-2022 04:50:26 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/awfarcar/public_html/functions/counter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 20
+[04-Sep-2022 04:50:44 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/awfarcar/public_html/functions/counter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 20
+[04-Sep-2022 04:50:47 America/Boise] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home4/awfarcar/public_html/functions/counter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/awfarcar/public_html/functions/counter.php on line 20
+[04-Sep-2022 05:07:31 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 26
+[04-Sep-2022 05:07:40 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 26
+[04-Sep-2022 05:07:50 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 26
+[04-Sep-2022 05:09:02 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 26
+[04-Sep-2022 05:23:04 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 26
+[04-Sep-2022 05:25:30 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 25
+[04-Sep-2022 05:26:06 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 25
+[04-Sep-2022 05:27:16 America/Boise] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/awfarcar/public_html/functions/counter.php on line 25
+[04-Sep-2022 06:18:59 America/Boise] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home4/awfarcar/public_html/functions/counter.php on line 28
+[04-Sep-2022 06:19:09 America/Boise] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home4/awfarcar/public_html/functions/counter.php on line 28
+[04-Sep-2022 06:19:16 America/Boise] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home4/awfarcar/public_html/functions/counter.php on line 28

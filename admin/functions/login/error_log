@@ -1,0 +1,131 @@
+[24-Aug-2022 12:02:59 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:02:59 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:02:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:03:52 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:03:52 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:03:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:04:08 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:04:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:04:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:04:16 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:04:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:04:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:06:15 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:06:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:06:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:14:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:14:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:15:05 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:15:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:16:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:16:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:41:41 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:41:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:41:57 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:41:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:42:57 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:42:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:43:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:43:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:44:56 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:44:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:45:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:45:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 12:55:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 12:55:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[24-Aug-2022 13:05:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[24-Aug-2022 13:05:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[25-Aug-2022 04:26:59 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[25-Aug-2022 04:26:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[25-Aug-2022 04:29:52 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[25-Aug-2022 04:29:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[25-Aug-2022 04:30:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[25-Aug-2022 04:30:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[25-Aug-2022 04:49:05 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[25-Aug-2022 04:49:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
+[25-Aug-2022 05:00:37 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'awfarcar_nagy'@'localhost' (using password: YES) in /home4/awfarcar/public_html/admin/functions/conntact.php on line 10
+[25-Aug-2022 05:00:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home4/awfarcar/public_html/admin/functions/conntact.php:12
+Stack trace:
+#0 /home4/awfarcar/public_html/admin/functions/login/login.php(8): require_once()
+#1 {main}
+  thrown in /home4/awfarcar/public_html/admin/functions/conntact.php on line 12
